@@ -37,8 +37,6 @@ while True:
             c.send("Not Found".encode())
 ```
 
-
-
 **rarp.py**
 ```
 import socket 
